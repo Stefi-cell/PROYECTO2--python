@@ -1,0 +1,6 @@
+#aqui va lo que quiero que nose suba a git
+
+__pycache__
+.pytest_cache
+test/__pycache__
+ej.py
